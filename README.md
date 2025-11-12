@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Diya1422
 - 👀 I’m interested in Java programming
 - 🌱 I’m currently learning Java programming
-- Calm mind.Focused on growth — not noise.
+- Calm mind.Focused on growth.
